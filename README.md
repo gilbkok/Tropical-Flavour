@@ -25,7 +25,7 @@ Check out [API LIVE DEMO](https://tropical-flavour-backend.herokuapp.com/) here!
 1. Git Clone
 
 ```
-https://github.com/DynoVinci/electric-view-main
+https://github.com/gilbkok/Tropical-Flavour
 ```
 
 2. Backend setting
