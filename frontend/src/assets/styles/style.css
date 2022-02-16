@@ -21,7 +21,10 @@ Header
   display: flex;
   justify-content: space-between;
 }
-
+a.Tropical{
+  text-decoration: none;
+  cursor: pointer;
+}
 .nav .navbar h3 {
   font-family: "Roboto";
   color: black;
