@@ -36,7 +36,7 @@ const Signin = () => {
         <div class="popup-inner">
           <br />
           <h1>
-            Ally Smoothie
+            Tropical Flavour
             <img src={Imageicon} />
           </h1>
 
