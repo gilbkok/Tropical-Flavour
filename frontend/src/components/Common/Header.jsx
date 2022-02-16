@@ -25,7 +25,7 @@ export default function Header() {
   return (
     <section class="nav">
       <div class="navbar">
-      <h3>Ally Smoothie  
+      <h3>Tropical Flavour
         <img src={Imageicon}/>
 
         </h3>
