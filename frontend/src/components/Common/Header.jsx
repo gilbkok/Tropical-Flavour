@@ -25,10 +25,10 @@ export default function Header() {
   return (
     <section class="nav">
       <div class="navbar">
-      <h3>Tropical Flavour
+      <a href="/" class= Tropical><h3>Tropical Flavour
         <img src={Imageicon}/>
 
-        </h3>
+        </h3></a>
         <div class="signin">
         
               {checkUser ? (
