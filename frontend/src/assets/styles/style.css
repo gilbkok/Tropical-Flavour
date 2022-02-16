@@ -111,11 +111,11 @@ li {
     cursor: pointer;
 }
 .number {
-  border: 1px solid black;
+  border: 1px solid white;
   font-size: 20px;
   padding: 4px 17px;
-  color: black;
-  background-color: #C8DD66;
+  color: white;
+  background-color:#e96632;
   margin-right: 10%;
   border-radius: 6px;
   cursor: pointer;
