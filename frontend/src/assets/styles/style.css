@@ -71,6 +71,8 @@ li {
 .row {
   display: flex;
   font-family: "Roboto", sans-serif;
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 .row img {
   width: 100px;
