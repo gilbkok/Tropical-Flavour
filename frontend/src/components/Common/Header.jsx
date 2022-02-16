@@ -25,7 +25,7 @@ export default function Header() {
   return (
     <section class="nav">
       <div class="navbar">
-      <a href="/" class= Tropical><h3>Tropical Flavour
+      <a href="/" class="Tropical"><h3>Tropical Flavour
         <img src={Imageicon}/>
 
         </h3></a>
