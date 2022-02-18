@@ -402,6 +402,12 @@ Signin and Signup
   .btn {
     font-size: 12px;
   }
+  .number {
+  border: 1px solid white;
+  font-size: 12px;
+  
+}
+
 
   footer {
     padding: 0;
